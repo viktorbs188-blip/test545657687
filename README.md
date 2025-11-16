@@ -93,5 +93,5 @@
     </div>
 <img scr="https://t.me/cjfjdjfjfjjrjfjf/2274.png"
 alt="Test">
-<img src="https://ibb.co/8LcGk36y"
+<img src="https://ibb.co/8LcGk36y/photo.png"
 alt="Test">
