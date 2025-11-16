@@ -16,15 +16,15 @@
 <div style="margin-top: 20px;">
   <button style="background-color: #00BFFF; /* голубой */
                  color: white;
-                 padding: 12px 20px;
+                 padding: 15px 0;
                  border: none;
                  border-radius: 5px;
                  cursor: pointer;
                  width: 100%;
+                 font-size: 18px;
                  display: flex;
                  align-items: center;
-                 justify-content: center;
-                 font-size: 16px;">
+                 justify-content: center;">
     ➕ Добавить бота в чат
   </button>
 </div>
