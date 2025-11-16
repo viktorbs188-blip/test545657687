@@ -91,3 +91,5 @@
             <li>/reaction – поставить реакцию на ваше сообщение</li>
         </ol>
     </div>
+<img scr="https://t.me/cjfjdjfjfjjrjfjf/2274.png"
+alt="Test">
