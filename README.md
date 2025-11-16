@@ -9,7 +9,7 @@
 3) Назначьте администратором (обязательно) и установите должность (по желанию)
 <h2>⚠️ ВАЖНО:</h2>
 Не отключайте уже установленные права, это может помешать боту работать как нужно.
-<button style="background-color: blue; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;"  
+<button style="background-color: blue; color: white; padding: 10px 10px; border: none; border-radius: 5px; cursor: pointer;"  
         onclick="window.location.href='https://t.me/gdmemer_cm_bot?startgroup=gdmemer&admin=change_info+restrict_members+delete_messages+pin_messages+invite_users+promote_members+anonymous'">  
   ➕ Добавить бота в чат  
 </button>
